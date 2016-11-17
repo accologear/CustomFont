@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ViewFont</string>
+
+    <string-array name="fontName">
+        <item>CSChatThaiUI</item>
+        <item>Kanit</item>
+    </string-array>
+</resources>
